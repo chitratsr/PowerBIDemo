@@ -1,0 +1,9 @@
+https://msdn.microsoft.com/en-us/library/ee634956.aspx
+https://powerbi.microsoft.com/en-us/documentation/powerbi-service-analyze-in-excel/
+https://community.powerbi.com/t5/Desktop/text-box-and-a-value-come-from-a-measure/td-p/36295
+https://community.powerbi.com/t5/Desktop/Question-Measure-Count-Status/td-p/127900
+https://msdn.microsoft.com/en-us/library/dn877544.aspx
+https://msdn.microsoft.com/en-us/library/mt244090.aspx
+https://powerbi.tips/category/measures/page/2/
+https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-tutorial-create-measures/
+https://powerbi.microsoft.com/en-us/documentation/powerbi-publisher-for-excel/
